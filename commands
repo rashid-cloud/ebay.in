@@ -1,0 +1,10 @@
+git config user.name 'rashid'
+git config user.email 'btechrashid07@gmail.com'
+git init
+git add filename
+git status
+git commit -m 'start'
+git remote add origin reponame
+git push origin master
+git clone reponame
+git pull origin master
